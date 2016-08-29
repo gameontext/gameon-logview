@@ -42,7 +42,7 @@ We use jitpack to build this library, which means you can direct maven or gradle
   ```
     (or, if you prefer to keep the password in an environment var.. )
   ```
-    <jndiEntry jndiName="logViewKey" value="${env.MAP_KEY}"/>
+    <jndiEntry jndiName="logViewKey" value="${env.LOG_VIEW_KEY}"/>
   ```
   
 3. Use Logview to view logs from your Liberty server.
