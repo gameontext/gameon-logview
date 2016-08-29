@@ -48,7 +48,7 @@ We use jitpack to build this library, which means you can direct maven or gradle
 3. Use Logview to view logs from your Liberty server.
 
   Logview adds a servlet to the context root with the name 'LogView'
-  If your content was as http://127.0.0.1/myContextRoot then you can access
+  If your content was at http://127.0.0.1/myContextRoot then you can access
   Logs via the url http://127.0.0.1/myContextRoot/LogView
 
 4. Send Ozzy Shoes!
