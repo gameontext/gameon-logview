@@ -1,5 +1,5 @@
 # gameon-logview
-A quick server logs viewer for liberty applications.. intended to be consumed as a library.
+A quick server logs viewer for Liberty applications.. intended to be consumed as a library.
 
 ## Using the library in your Java projects
 
