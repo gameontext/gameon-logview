@@ -27,13 +27,13 @@ We use jitpack to build this library, which means you can direct maven or gradle
     <dependency>
       <groupId>com.github.gameontext</groupId>
       <artifactId>gameon-logview</artifactId>
-      <version>v1.0.0</version>
+      <version>master-SNAPSHOT</version>
     </dependency>
   ```
   * In gradle:
   ```
     dependencies {
-	    compile 'com.github.gameontext:gameon-logview:v1.0.0'
+	    compile 'com.github.gameontext:gameon-logview:master-SNAPSHOT'
     }
   ```
   * In your `server.xml`
